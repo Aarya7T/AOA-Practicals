@@ -1,0 +1,1 @@
+This repository comprehensively encompasses a collection of practical codes for Algorithms and Data Structures, implemented in Python. Examples include sorting algorithms like Merge Sort, Insertion Sort, and Selection Sort, showcasing a diverse range of fundamental concepts in the realm of Algorithmic Design and Analysis (AOA).
